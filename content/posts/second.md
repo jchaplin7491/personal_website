@@ -2,7 +2,7 @@
 categories = ["propaganda"]
 comments = false
 date = "2016-10-01T16:59:13-04:00"
-draft = false
+draft = true
 showpagemeta = true
 slug = ""
 tags = ["gavin", "belson", "hooli", "ceo"]

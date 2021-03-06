@@ -2,7 +2,7 @@
 categories = ["propaganda"]
 comments = false
 date = "2016-10-03T16:59:13-04:00"
-draft = false
+draft = true
 showpagemeta = true
 showcomments = false
 slug = ""
