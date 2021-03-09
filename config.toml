@@ -18,7 +18,7 @@ disqusShortname = "john"
     author = "John Chaplin"
     description = "John Chaplin's personal website"
     keywords = "investor, entrepreneur, operator"
-    info = "Currently @Novi Labs. Entrepreneur. Energy Investor. SMB Investor. Recovering Investment Banker."
+    info = "Entrepreneur. Energy & SMB Investor."
     avatarURL = "images/avatar.jpg"
     dateFormat = "January 2, 2006"
     hideFooter = false
@@ -27,7 +27,7 @@ disqusShortname = "john"
     since = 1991
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
 
@@ -96,7 +96,7 @@ disqusShortname = "john"
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 2
-    url = "www.linkedin.com/in/johntchaplin"
+    url = "https://linkedin.com/in/johntchaplin"
 [[params.social]]
     name = "Github"
     icon = "fa fa-github"

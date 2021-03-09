@@ -1,14 +1,14 @@
 +++
 categories = ["ad"]
 comments = false
-date = "2016-10-02T15:59:13-04:00"
+date = "2016-10-02"
 draft = true
-showpagemeta = true
-showcomments = true
+showpagemeta = false
+showcomments = false
 slug = ""
-tags = ["gavin", "belson", "hooli", "hardware"]
-title = "Gavin Belson"
-description = "A post about the amazingness of Gavin Belson"
+tags = []
+title = "The Beginning"
+description = "A post about the beginning"
 
 +++
 
